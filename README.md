@@ -430,6 +430,5 @@ Los resultados generados por el modelo **no constituyen un diagnóstico médico 
 ## Autor
 
 **David**
-
-Ingeniería Biomédica  
+ 
 Máster en Big Data, Data Science e Inteligencia Artificial
