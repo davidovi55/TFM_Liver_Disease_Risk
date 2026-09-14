@@ -246,15 +246,15 @@ Los resultados muestran una capacidad discriminativa moderada.
 ### Validación out-of-fold
 
 ```text
-PR-AUC:  0.56
-ROC-AUC: 0.892
+PR-AUC:  0.543
+ROC-AUC: 0.943
 ```
 
 ### Holdout
 
 ```text
-PR-AUC:  0.0595
-ROC-AUC: 0.6488
+PR-AUC:  0.56
+ROC-AUC: 0.892
 ```
 
 La diferencia entre PR-AUC y ROC-AUC está condicionada por el fuerte desbalance de la variable objetivo.
